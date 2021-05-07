@@ -26,7 +26,7 @@ namespace Assignment_1.Controllers
 
             return View();
         }
-        public ActionResult Team_Members()
+        public ActionResult Assignment_one()
         {
             ViewBag.Message = "Your team member page.";
 
